@@ -2,12 +2,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/H47Yh1ItzceYbSIjD5/giphy.gif" width="100"/>
 </div>
-👋 I am a Data Scientist from Pakistan 
-- </div> 
-👀 I’m interested in Content Writing
-- </div>
-🌱 I’m currently learning Python, SQL and RStudio
-- </div>
+👋 I am a Data Scientist from Pakistan <br>
+</div> 
+👀 I’m interested in Content Writing <br>
+</div>
+🌱 I’m currently learning Python, SQL and RStudio <br>
+</div>
 💞️ I’m looking to collaborate on any Content Writing related work
 - </div>
 📫 How to reach me email: ahmedumermushtaq24@gmail.com  
